@@ -1,4 +1,6 @@
-# System - Monolith (TypeScript)
+# ATDD Accelerator Template - Monolith (TypeScript)
+
+[![commit-stage-monolith-typescript](https://github.com/optivem/atdd-accelerator-template-monolith-typescript/actions/workflows/commit-stage-monolith-typescript.yml/badge.svg)](https://github.com/optivem/atdd-accelerator-template-monolith-typescript/actions/workflows/commit-stage-monolith-typescript.yml)
 
 ## Instructions
 
