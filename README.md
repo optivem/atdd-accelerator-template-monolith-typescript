@@ -1,2 +1,11 @@
-# atdd-accelerator-template-monolith-typescript
-ATDD Accelerator Template - Monolith (TypeScript)
+# System - Monolith (TypeScript)
+
+## Instructions
+
+We're using NestJS. Ensure that you've installed the CLI.
+
+```shell
+npm install -g @nestjs/cli
+```
+
+TODO: VJ: Comment
